@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Mis stats de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8)
+![Mis stats de GitHub](https://github-readme-stats.vercel.app/api?username=tomasft0410&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasft0410&layout=compact&langs_count=8)
 
 <!--
 **tomasft0410/tomasft0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
