@@ -9,7 +9,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasfdezt@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomasft0410)
 </div>
----
 
 ## 👨‍💻 Sobre mí
 
@@ -20,10 +19,7 @@ Software Engineer con experiencia en desarrollo Full Stack y especialización en
 - 🌱 Experiencia en **Ruby on Rails, Angular, React, Python** y tecnologías cloud
 - 🎓 Ingeniero Civil de Industrias UC - Major en Computación
 - 🌍 English Level C1 (Kaplan International Languages, Berkeley)
-- 🇨🇱 Basado en Chile
-- 📧 tomasfdezt@gmail.com
-
----
+- 📧 tomasfdezt@gmail.com 🇨🇱
 
 ## 📊 Estadísticas de GitHub
 
@@ -32,15 +28,35 @@ Software Engineer con experiencia en desarrollo Full Stack y especialización en
   <img height="180em" src="https://github-readme-stats-sand-nine-44.vercel.app/api/top-langs/?username=tomasft0410&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true"/>
 </div>
 
+## 🎓 Educación
+
+**Ingeniería Civil de Industrias** | Pontificia Universidad Católica de Chile  
+*Major en Computación y Sistemas de Información - Track Computación*  
+*Minor de Amplitud en Ingeniería Industrial*  
+**Graduación:** 2024
+
+**English Level C1** | Kaplan International Languages, Berkeley  
+**Año:** 2022
+
+---
+
+## 📈 Métricas Adicionales
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomasft0410&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomasft0410&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomasft0410&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomasft0410&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
 ---
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tomasft0410&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -78,39 +94,6 @@ Software Engineer con experiencia en desarrollo Full Stack y especialización en
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
-
----
-
-## 🎓 Educación
-
-**Ingeniería Civil de Industrias** | Pontificia Universidad Católica de Chile  
-*Major en Computación y Sistemas de Información - Track Computación*  
-*Minor de Amplitud en Ingeniería Industrial*  
-**Graduación:** 2024
-
-**English Level C1** | Kaplan International Languages, Berkeley  
-**Año:** 2022
-
----
-
-## 📈 Métricas Adicionales
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomasft0410&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomasft0410&theme=tokyonight" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomasft0410&theme=tokyonight" alt="Repos per Language"/>
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tomasft0410&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
