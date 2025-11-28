@@ -15,7 +15,6 @@
 Software Engineer con experiencia en desarrollo Full Stack y especialización en Ruby on Rails. Ingeniero Civil de Industrias UC con Major en Computación y Sistemas de Información. Apasionado por crear soluciones tecnológicas innovadoras que satisfagan las demandas del mercado.
 
 - 🔭 Actualmente trabajando como **Semi Senior Software Engineer en Buk**
-- 💼 Especializado en integraciones B2B y desarrollo de productos internos
 - 🌱 Experiencia en **Ruby on Rails, Angular, React, Python** y tecnologías cloud
 - 🎓 Ingeniero Civil de Industrias UC - Major en Computación
 - 🌍 English Level C1 (Kaplan International Languages, Berkeley)
